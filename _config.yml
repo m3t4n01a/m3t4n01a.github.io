@@ -1,6 +1,8 @@
+remote_theme: ankitsultana/researcher@gem
+
 title: Adrian Millea
 url: "https://m3t4n01a.github.io"
-baseurl: "/home/"
+baseurl: ""
 
 markdown: kramdown
 
@@ -16,13 +18,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/home/about"
+   link: "/about"
  - name: "Resume"
    link: "AdrianMilleaResume.pdf"
  - name: "Projects"
-   link: "/home/projects"
+   link: "/projects"
  - name: "Contact"
    link: "contact"
-
-
-theme: jekyll-theme-cayman
