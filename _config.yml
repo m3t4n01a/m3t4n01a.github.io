@@ -24,3 +24,5 @@ nav:
  - name: "Contact"
    link: "contact"
 
+
+theme: jekyll-theme-hacker
