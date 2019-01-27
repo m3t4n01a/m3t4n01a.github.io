@@ -17,9 +17,11 @@ sass:
     sass_dir: _sass
 
 nav:
+  -name: "Home"
+   link: "/"
  - name: "About"
    link: "/about"
- - name: "Resumee"
+ - name: "Resume"
    link: "AdrianMilleaResume.pdf"
  - name: "Projects"
    link: "/projects"
