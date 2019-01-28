@@ -25,7 +25,7 @@ Foreign Exchange market using a Sarsa-Echo State Network [pdf](rl_esn.pdf) [cite
 2. A.Millea, A.Edalat: Natural Boltzmann Machines [pdf](Natural Boltzmann Machines.pdf) [cite](nbm.bib)
 3. A.Millea: Message passing algorithms for time series [pdf](Message passing algorithms for time series.pdf) [cite](mp.bib)
 4. A.Millea: Information Geometry for Machine Learning [pdf](IG.pdf) [cite](ig.bib)
-5. A.Millea: A deep reinforcement learning short survey [pdf](DRL_survey_v2.pdf) [cite](drl.bib)
+5. A.Millea, A.Edalat: A deep reinforcement learning short survey [pdf](DRL_survey_v2.pdf) [cite](drl.bib)
 6. A.Millea: Efficient long term prediction of pixels with the Modular
 Autoencoder for Atari games [pdf](MAEv2.pdf) [cite](mae.bib)
 7. A.Millea: Efficient hierarchical subgoal discovery for reinforcement learning [pdf](Efficient hierarchical subgoal discovery - draft.pdf) [cite](subgoal.bib)
