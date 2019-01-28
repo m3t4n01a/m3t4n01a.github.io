@@ -2,7 +2,7 @@ remote_theme: ankitsultana/researcher@gem
 
 title: Adrian Millea
 url: "https://m3t4n01a.github.io"
-baseurl: "https://m3t4n01a.github.io"
+baseurl: "/"
 
 markdown: kramdown
 
