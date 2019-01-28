@@ -12,7 +12,7 @@ I am a Machine Learning guy, finishing my PhD at Imperial College London under t
 ## Research Interests
 My main research interests *now* are in the domain of Deep Reinforcement Learning. I am interested in simple methods for non-parametric model-based reinforcement learning, semantic memory building from episodic memory using statistical properties of the environment, arbitrary hierarchical structuring of environments for planning, auxiliary reward functions, etc.
 
-You can check out my longer story in the [About](/home/about) section.
+You can check out my longer story in the [About](/about) section.
 
 ## Publications
 
