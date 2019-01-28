@@ -6,7 +6,8 @@ baseurl: "/"
 
 markdown: kramdown
 
-tracking_id: #
+# Google Analytics
+google_analytics: UA-16290038-2
 
 footer: yes
 footer_url: "https://github.com/jekyll/jekyll"
