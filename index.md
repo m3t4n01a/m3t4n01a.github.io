@@ -10,7 +10,7 @@ Hi there.
 I am a Machine Learning guy, finishing my PhD at Imperial College London under the supervision of [Abbas Edalat](https://www.doc.ic.ac.uk/~ae/). My current research topic can be very briefly summarized as "A cognitive architecture using deep learning".
 
 ## Research Interests
-My main research interests *now* are in the domain of Deep Reinforcement Learning. I am interested in simple methods for non-parametric model-based reinforcement learning, semantic memory building from episodic memory using statistical properties of the environment, arbitrary hierarchical structuring of environments for planning, auxiliary reward functions, etc.
+My main research interests are in the domain of Deep Reinforcement Learning. I am interested in simple methods for non-parametric model-based reinforcement learning, semantic memory building from episodic memory using statistical properties of the environment, arbitrary hierarchical structuring of environments for planning, auxiliary reward functions, etc. 
 
 You can check out my longer story in the [About](/about) section.
 
@@ -29,7 +29,6 @@ Foreign Exchange market using a Sarsa-Echo State Network [pdf](rl_esn.pdf) [cite
 6. A.Millea: Efficient long term prediction of pixels with the Modular
 Autoencoder for Atari games [pdf](MAEv2.pdf) [cite](mae.bib)
 7. A.Millea: Efficient hierarchical subgoal discovery for reinforcement learning [pdf](Efficient hierarchical subgoal discovery - draft.pdf) [cite](subgoal.bib)
-8. A.Millea: A cognitive architecture based on Deep Reinforcement Learning [pdf](early_alpha.pdf)[cite](cogarch.bib)
 
 ## References
 

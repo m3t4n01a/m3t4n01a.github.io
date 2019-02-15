@@ -14,7 +14,7 @@ After that I studied **information geometry**, which I found extremely interesti
 
 I finally settled on **deep reinforcement learning** as the main topic for my thesis, but soon I realized that many of the papers that came out were really just incremental results and very few actually brought real contributions to the field. I think this is generally valid for any rapidly developing field of science, as they are most affected by the illness/frenzy of publishing as many papers as possible. Luckily, I was not forced to publish (however I had to present some internal documents at Imperial, that would ideally turn into publications). In this process I also kind of developed a resentment towards publishing and felt that I wanted to publish important stuff, not just anything for the sake of publishing.
 
-So then I decided I am going to do something which I truly believe in. Work to discover traits of general AI, or strong AI. So I started reading a lot of papers and books from neuroscience, psychology, cognitive science to learn about memory, decision making, consciousness, etc. I soon discovered a simple principle that can be applied hierarchically and to all types of memory, be it semantic, episodic, temporal, etc. I call it the neighbouring principle, you can read more about it [here](Efficient hierarchical subgoal discovery - draft.pdf). I also wrote a document describing how I see things and what I am doing, you can check it out [here](early_alpha.pdf).
+So then I decided I am going to do something which I truly believe in. Work to discover traits of general AI, or strong AI. So I started reading a lot of papers and books from neuroscience, psychology, cognitive science to learn about memory, decision making, consciousness, etc. I soon discovered a simple principle that can be applied hierarchically and to all types of memory, be it semantic, episodic, temporal, etc. I call it the neighbouring principle, you can read more about it [here](Efficient hierarchical subgoal discovery - draft.pdf).
 
 Soon enough some interesting papers appeared, showing me that I am on the right path:
 
@@ -22,5 +22,5 @@ Soon enough some interesting papers appeared, showing me that I am on the right 
 
 [2] Navigating cognition: Spatial codes for human thinking. See [here](http://science.sciencemag.org/content/362/6415/eaat6766).
 
-I also strongly believe that *ML should be available to all* not only the few, so I am working on a project which exposes ML to the any person, not only computer scientists, similar to [Orange](https://orange.biolab.si/). 
+I also strongly believe that *ML should be available to all* not only the few, so I am working on a project which exposes ML to any person, not only computer scientists, similar to [Orange](https://orange.biolab.si/). 
 
