@@ -19,7 +19,7 @@ You can check out my longer story in the [About](/about) section.
 1. Wiering, M. A., Schutten, M., Millea, A., Meijster, A., & Schomaker, L. R. B. (2013). Deep support vector machines for regression problems. In Proceedings of the international workshop on advances in regularization, optimization, kernel methods, and support vector machines: theory and applications. 
 2. Millea, A. (2014). Explorations in echo state networks. Department of Artificial Intelligence, Groningen University, MA, Netherlands. [pdf](Thesis_Adrian_Millea.pdf) [cite](msc.bib)
 
-## Work in progress or unpublished 
+## Unpublished work
 1. A.Millea, D.Podareanu, M.A.Wiering: Optimal action selection for the
 Foreign Exchange market using a Sarsa-Echo State Network [pdf](rl_esn.pdf) [cite](sarsa_esn.bib)
 2. A.Millea, A.Edalat: Natural Boltzmann Machines [pdf](Natural Boltzmann Machines.pdf) [cite](nbm.bib)
