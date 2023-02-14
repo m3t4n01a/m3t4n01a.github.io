@@ -7,17 +7,16 @@ layout: default
 <img class="profile-picture" src="me_scaled.jpg">
 
 Hi there. 
-I am a Machine Learning guy, finishing my PhD at Imperial College London under the supervision of [Abbas Edalat](https://www.doc.ic.ac.uk/~ae/). My current research topic can be very briefly summarized as "A cognitive architecture using deep learning".
+I am a Machine Learning guy, finishing my PhD at Imperial College London under the supervision of [Abbas Edalat](https://www.doc.ic.ac.uk/~ae/). My current research topic can be very briefly summarized as "Hierarchical model-based reinforcement learning for trading".
 
 ## Research Interests
-My main research interests are in the domain of Deep Reinforcement Learning. I am interested in simple methods for non-parametric model-based reinforcement learning, semantic memory building from episodic memory using statistical properties of the environment, arbitrary hierarchical structuring of environments for planning, auxiliary reward functions, etc. 
+My other research interests are in the domain of Deep Reinforcement Learning. I am interested in simple methods for non-parametric model-based reinforcement learning, semantic memory building from episodic memory using statistical properties of the environment, arbitrary hierarchical structuring of environments for planning, auxiliary reward functions, etc. 
 
 You can check out my longer story in the [About](/about) section.
 
 ## Publications
 
-1. Wiering, M. A., Schutten, M., Millea, A., Meijster, A., & Schomaker, L. R. B. (2013). Deep support vector machines for regression problems. In Proceedings of the international workshop on advances in regularization, optimization, kernel methods, and support vector machines: theory and applications. 
-2. Millea, A. (2014). Explorations in echo state networks. Department of Artificial Intelligence, Groningen University, MA, Netherlands. [pdf](Thesis_Adrian_Millea.pdf) [cite](msc.bib)
+https://scholar.google.com/citations?user=z1xiPhAAAAAJ&hl=en&oi=ao
 
 ## Unpublished work
 1. A.Millea, D.Podareanu, M.A.Wiering: Optimal action selection for the
